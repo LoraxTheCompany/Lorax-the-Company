@@ -1,4 +1,0 @@
-User-Agent: *
-Allow: 
-
-Sitemap: https://loraxthecompany.com/sitemap.xml
