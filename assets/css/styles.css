@@ -265,7 +265,7 @@
 
 @media (min-width: 340px) {
   .box {
-    height: 341px;
+    height: 360px;
   }
 }
 
@@ -372,5 +372,17 @@
   margin-bottom: 00px;
   margin-top: 00px;
   max-height: 600px;
+}
+
+@media (max-width: 767px) {
+  .urunumuzdiv {
+    padding: 5px;
+  }
+}
+
+@media (min-width: 768px) {
+  .urunumuzdiv {
+    padding: 42px;
+  }
 }
 
